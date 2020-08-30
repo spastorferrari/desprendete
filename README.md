@@ -27,6 +27,8 @@
 * REYNALDO RODRIGUEZ : 0 wins.
 * TANIA HERNANDEZ : 0 wins.
 * Total wins: 1
+
+
 |    | names              |   bids |   pts |    pval |   %Win |   win_frequency |
 |---:|:-------------------|-------:|------:|--------:|-------:|----------------:|
 |  0 | ABIGAIL DUARTE     |     16 | 16000 | 0.1     | 10     |               1 |
